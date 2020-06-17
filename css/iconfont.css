@@ -13,7 +13,7 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-attachment: fixed;
+  background-color: aliceblue;
 }
 
 .icon-icon-test:before {
